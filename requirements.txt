@@ -1,0 +1,4 @@
+BeautifulSoup==3.2.1
+Flask==1.0.2
+pytest==3.7.0
+coverage==4.5.1
