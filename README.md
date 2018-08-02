@@ -1,8 +1,8 @@
-#Crawler
+# Crawler
 
 Crawler que retorna um JSON estruturado desenvolvido em python.
 
-##Instalação
+## Instalação
 
 Em um virtual environment digite:
 
@@ -11,7 +11,7 @@ pip3 install -r requirements.txt
 
 ```
 
-##Execução
+## Execução
 
 ```
 # Testes unitarios
